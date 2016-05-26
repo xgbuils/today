@@ -1,0 +1,14 @@
+{
+  "name": "today",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xavier Garcia Buils",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
